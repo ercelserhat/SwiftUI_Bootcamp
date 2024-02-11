@@ -16,6 +16,7 @@
 		7ABD31872B79333200E2083C /* ColorsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD31862B79333200E2083C /* ColorsBootcamp.swift */; };
 		7ABD31892B79383800E2083C /* GradientsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD31882B79383800E2083C /* GradientsBootcamp.swift */; };
 		7ABD318B2B793CFC00E2083C /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD318A2B793CFC00E2083C /* IconsBootcamp.swift */; };
+		7ABD318D2B793F2700E2083C /* ImagesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD318C2B793F2700E2083C /* ImagesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		7ABD31862B79333200E2083C /* ColorsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootcamp.swift; sourceTree = "<group>"; };
 		7ABD31882B79383800E2083C /* GradientsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootcamp.swift; sourceTree = "<group>"; };
 		7ABD318A2B793CFC00E2083C /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
+		7ABD318C2B793F2700E2083C /* ImagesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				7ABD31862B79333200E2083C /* ColorsBootcamp.swift */,
 				7ABD31882B79383800E2083C /* GradientsBootcamp.swift */,
 				7ABD318A2B793CFC00E2083C /* IconsBootcamp.swift */,
+				7ABD318C2B793F2700E2083C /* ImagesBootcamp.swift */,
 				7ABD31782B792A2700E2083C /* Assets.xcassets */,
 				7ABD317A2B792A2700E2083C /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				7ABD31892B79383800E2083C /* GradientsBootcamp.swift in Sources */,
 				7ABD31872B79333200E2083C /* ColorsBootcamp.swift in Sources */,
+				7ABD318D2B793F2700E2083C /* ImagesBootcamp.swift in Sources */,
 				7ABD31852B79305200E2083C /* ShapesBootcamp.swift in Sources */,
 				7ABD31772B792A2600E2083C /* ContentView.swift in Sources */,
 				7ABD31832B792C8100E2083C /* TextBootcamp.swift in Sources */,
