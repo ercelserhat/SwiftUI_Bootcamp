@@ -32,6 +32,7 @@
 		7AE2EC0F2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */; };
 		7AE2EC112BA8D8F2009CB019 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC102BA8D8F2009CB019 /* BindingBootcamp.swift */; };
 		7AE2EC132BA8DB4B009CB019 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC122BA8DB4B009CB019 /* ConditionalBootcamp.swift */; };
+		7AE2EC152BA8DE82009CB019 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC142BA8DE82009CB019 /* TernaryBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		7AE2EC102BA8D8F2009CB019 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		7AE2EC122BA8DB4B009CB019 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
+		7AE2EC142BA8DE82009CB019 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */,
 				7AE2EC102BA8D8F2009CB019 /* BindingBootcamp.swift */,
 				7AE2EC122BA8DB4B009CB019 /* ConditionalBootcamp.swift */,
+				7AE2EC142BA8DE82009CB019 /* TernaryBootcamp.swift */,
 				7ABD31782B792A2700E2083C /* Assets.xcassets */,
 				7ABD317A2B792A2700E2083C /* Preview Content */,
 			);
@@ -218,6 +221,7 @@
 				7AE2EC112BA8D8F2009CB019 /* BindingBootcamp.swift in Sources */,
 				7AE2EC0D2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				7ABD31832B792C8100E2083C /* TextBootcamp.swift in Sources */,
+				7AE2EC152BA8DE82009CB019 /* TernaryBootcamp.swift in Sources */,
 				7AE2EC0F2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift in Sources */,
 				7ABD31932B7A9B8C00E2083C /* StacksBootcamp.swift in Sources */,
 				7ADC17F22B869E5900CC1793 /* SpacerBootcamp.swift in Sources */,
