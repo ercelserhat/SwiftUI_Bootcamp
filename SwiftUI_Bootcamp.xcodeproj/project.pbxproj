@@ -29,6 +29,7 @@
 		7AE2EC092BA8C562009CB019 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC082BA8C562009CB019 /* ButtonsBootcamp.swift */; };
 		7AE2EC0B2BA8CFCD009CB019 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC0A2BA8CFCD009CB019 /* StateBootcamp.swift */; };
 		7AE2EC0D2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC0C2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift */; };
+		7AE2EC0F2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		7AE2EC082BA8C562009CB019 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
 		7AE2EC0A2BA8CFCD009CB019 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		7AE2EC0C2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
+		7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				7AE2EC082BA8C562009CB019 /* ButtonsBootcamp.swift */,
 				7AE2EC0A2BA8CFCD009CB019 /* StateBootcamp.swift */,
 				7AE2EC0C2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift */,
+				7AE2EC0E2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift */,
 				7ABD31782B792A2700E2083C /* Assets.xcassets */,
 				7ABD317A2B792A2700E2083C /* Preview Content */,
 			);
@@ -207,6 +210,7 @@
 				7ABD31772B792A2600E2083C /* ContentView.swift in Sources */,
 				7AE2EC0D2BA8D1D4009CB019 /* ExtractedFunctionsBootcamp.swift in Sources */,
 				7ABD31832B792C8100E2083C /* TextBootcamp.swift in Sources */,
+				7AE2EC0F2BA8D4AE009CB019 /* ExtractSubviewsBootcamp.swift in Sources */,
 				7ABD31932B7A9B8C00E2083C /* StacksBootcamp.swift in Sources */,
 				7ADC17F22B869E5900CC1793 /* SpacerBootcamp.swift in Sources */,
 				7ABD31752B792A2600E2083C /* SwiftUI_BootcampApp.swift in Sources */,
