@@ -26,7 +26,7 @@ struct TabViewBootcamp: View {
                 }
                 .tag(1)
             
-            ProfileView()
+            ProfilView()
                 .tabItem {
                     Image(systemName: "person.fill")
                     Text("Profile")
@@ -74,7 +74,7 @@ struct BrowseView: View {
     }
 }
 
-struct ProfileView: View {
+struct ProfilView: View {
     var body: some View {
         ZStack{
             Color.blue.ignoresSafeArea()
