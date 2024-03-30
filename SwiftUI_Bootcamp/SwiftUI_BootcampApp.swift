@@ -13,7 +13,8 @@ struct SwiftUI_BootcampApp: App {
         WindowGroup {
 //            ContentView()
 //            AppStorageBootcamp()
-            IntroView()
+//            IntroView()
+            FocusStateBootcamp()
         }
     }
 }
