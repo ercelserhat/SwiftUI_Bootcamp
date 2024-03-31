@@ -15,7 +15,8 @@ struct SwiftUI_BootcampApp: App {
 //            AppStorageBootcamp()
 //            IntroView()
 //            FocusStateBootcamp()
-            SubmitTextFieldBootcamp()
+//            SubmitTextFieldBootcamp()
+            NavigationStackBootcamp()
         }
     }
 }
