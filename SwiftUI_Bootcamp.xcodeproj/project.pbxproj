@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7A18BCC92BBC813100026A1C /* GridViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A18BCC82BBC813100026A1C /* GridViewBootcamp.swift */; };
 		7A3166702BB754770097A16E /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A31666F2BB754770097A16E /* IfLetGuardBootcamp.swift */; };
 		7A3166722BB757E30097A16E /* TapGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3166712BB757E30097A16E /* TapGestureBootcamp.swift */; };
 		7A3166742BB759860097A16E /* ModelBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A3166732BB759860097A16E /* ModelBootcamp.swift */; };
@@ -86,6 +87,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7A18BCC82BBC813100026A1C /* GridViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewBootcamp.swift; sourceTree = "<group>"; };
 		7A31666F2BB754770097A16E /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 		7A3166712BB757E30097A16E /* TapGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TapGestureBootcamp.swift; sourceTree = "<group>"; };
 		7A3166732BB759860097A16E /* ModelBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelBootcamp.swift; sourceTree = "<group>"; };
@@ -277,6 +279,7 @@
 				7A3166A42BBB65EE0097A16E /* AnyLayoutBootcamp.swift */,
 				7A3166A62BBB6B8A0097A16E /* ViewThatFitsBootcamp.swift */,
 				7A3166A82BBB6DC20097A16E /* NavigationSplitViewBootcamp.swift */,
+				7A18BCC82BBC813100026A1C /* GridViewBootcamp.swift */,
 				7ABD31782B792A2700E2083C /* Assets.xcassets */,
 				7ABD317A2B792A2700E2083C /* Preview Content */,
 			);
@@ -430,6 +433,7 @@
 				7A3166722BB757E30097A16E /* TapGestureBootcamp.swift in Sources */,
 				7A3166932BB8E91A0097A16E /* SubmitTextFieldBootcamp.swift in Sources */,
 				7A48F0AE2BAFA965008A07BE /* TextEditorBootcamp.swift in Sources */,
+				7A18BCC92BBC813100026A1C /* GridViewBootcamp.swift in Sources */,
 				7A3166A72BBB6B8A0097A16E /* ViewThatFitsBootcamp.swift in Sources */,
 				7AE2EC172BA8F714009CB019 /* AnimationBootcamp.swift in Sources */,
 				7ABD318B2B793CFC00E2083C /* IconsBootcamp.swift in Sources */,
