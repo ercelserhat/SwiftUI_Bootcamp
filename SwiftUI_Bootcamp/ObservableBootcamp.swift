@@ -7,12 +7,13 @@
 
 import SwiftUI
 
-class ObservableViewModel: ObservableObject{
-    @Published var title: String = "Some title"
+@Observable class ObservableViewModel{
+    var title: String = "Some title"
+    @ObservationIgnored var value: String = "Observation ignored value"
 }
 
 struct ObservableBootcamp: View {
-    @StateObject private var viewModel = ObservableViewModel()
+    @State private var viewModel = ObservableViewModel()
     
     var body: some View {
         VStack(spacing: 40){
@@ -24,12 +25,12 @@ struct ObservableBootcamp: View {
             
             SomeThirdView()
         }
-        .environmentObject(viewModel)
+        .environment(viewModel)
     }
 }
 
 struct SomeChildView: View {
-    @ObservedObject var viewModel: ObservableViewModel
+    @Bindable var viewModel: ObservableViewModel
     
     var body: some View {
         Button(viewModel.title){
@@ -39,7 +40,7 @@ struct SomeChildView: View {
 }
 
 struct SomeThirdView: View {
-    @EnvironmentObject var viewModel: ObservableViewModel
+    @Environment(ObservableViewModel.self) var viewModel
     
     var body: some View {
         Button(viewModel.title){
